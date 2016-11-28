@@ -213,12 +213,12 @@ td:hover {
 }
 
 #projects img {
-  display: inline-block;
+  display: block;
   width: 20%;
 }
 
 #projects a {
-  display: inline-block;
+  display: block;
   text-decoration: none;
   color: white;
 }
